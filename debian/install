@@ -1,0 +1,3 @@
+install-files/icons                    usr/share
+install-files/wasta-resources          usr/share
+install-files/wasta-resources.desktop  usr/share/applications

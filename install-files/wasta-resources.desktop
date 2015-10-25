@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Name=wasta [Resources]
+Comment=Documentation and Reference Materials
+Exec=nautilus /usr/share/wasta-resources/
+Type=Application
+Icon=wasta-resources
+Categories=Education;
