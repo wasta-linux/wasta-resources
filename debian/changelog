@@ -1,3 +1,9 @@
+wasta-resources (1.0.1) xenial; urgency=medium
+
+  * wasta-resources.desktop: changed from "nautilus" to "xdg-open"
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 26 Mar 2016 17:02:46 +0300
+
 wasta-resources (1.0) wily; urgency=medium
 
   * changing from nemo to nautilus
