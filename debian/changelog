@@ -1,3 +1,9 @@
+wasta-resources (1.0.2) bionic; urgency=medium
+
+  * debian/control: replace nautilus dependency with xdg-utils
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 16 Mar 2019 16:50:12 +0300
+
 wasta-resources (1.0.1) xenial; urgency=medium
 
   * wasta-resources.desktop: changed from "nautilus" to "xdg-open"
