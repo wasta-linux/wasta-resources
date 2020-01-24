@@ -1,3 +1,9 @@
+wasta-resources (1.0.3) focal; urgency=medium
+
+  * new icon
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 24 Jan 2020 15:21:57 +0300
+
 wasta-resources (1.0.2) bionic; urgency=medium
 
   * debian/control: replace nautilus dependency with xdg-utils
