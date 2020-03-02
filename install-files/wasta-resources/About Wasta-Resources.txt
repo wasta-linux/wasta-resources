@@ -4,7 +4,7 @@ place files, folders, or symlinks in the wasta-resources folder in order
 to give users easy access to documentation and reference materials.
 
 See the Wasta-Linux website for more information:
-https://sites.google.com/site/wastalinux/
+https://www.wastalinux.org/
 
 Ask questions at the Wasta-Linux User Group:
 https://groups.google.com/forum/#!forum/wasta-linux-users

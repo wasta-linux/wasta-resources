@@ -1,3 +1,9 @@
+wasta-resources (1.0.4) focal; urgency=medium
+
+  * icon re-coloring
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 02 Mar 2020 15:17:58 +0300
+
 wasta-resources (1.0.3) focal; urgency=medium
 
   * new icon

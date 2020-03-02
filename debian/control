@@ -9,7 +9,7 @@ Package: wasta-resources
 Architecture: all
 Depends:xdg-utils, ${misc:Depends}
 Description: Wasta-Linux Resources
- wasta-resources provides an application menu launcher that will open a file
- browser to the /usr/share/wasta-resources folder.  Other packages can
+ Wasta-Resources provides an application menu launcher that will open a file
+ browser to the /usr/share/wasta-resources folder. Other packages can
  place files, folders, or symlinks in the wasta-resources folder in order
  to give users easy access to documentation and reference materials.
