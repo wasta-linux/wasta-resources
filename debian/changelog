@@ -1,3 +1,9 @@
+wasta-resources (1.0.6) focal; urgency=medium
+
+  * converted logo text to path so scales better
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 21 Mar 2020 16:39:38 +0300
+
 wasta-resources (1.0.5) focal; urgency=medium
 
   * padded icon
